@@ -1184,8 +1184,7 @@
     "username_claimed": "blue"
   },
   "KiwiFarms": {
-    "errorMsg": "Oops! We ran into some problems.",
-    "errorType": "message",
+    "errorType": "status_code",
     "url": "https://kiwifarms.st/members/{}",
     "urlMain": "https://kiwifarms.st/",
     "username_claimed": "blue"
@@ -1569,7 +1568,8 @@
     "username_claimed": "blue"
   },
   "Photobucket": {
-    "errorType": "status_code",
+    "errorMsg": "Where am I?",
+    "errorType": "message",
     "url": "https://photobucket.com/user/{}/library",
     "urlMain": "https://photobucket.com/",
     "username_claimed": "blue"
@@ -1647,7 +1647,7 @@
     "username_claimed": "Blue"
   },
   "Quora": {
-    "errorMsg": "Page Not Found",
+    "errorMsg": "We searched everywhere but couldn't find the page you were looking for.",
     "errorType": "message",
     "url": "https://www.quora.com/profile/{}",
     "urlMain": "https://www.quora.com/",
@@ -2146,7 +2146,7 @@
     "username_claimed": "blue"
   },
   "Velomania": {
-    "errorMsg": "500 Internal Server Error",
+    "errorMsg": "Пользователь не зарегистрирован и не имеет профиля для просмотра.",
     "errorType": "message",
     "url": "https://forum.velomania.ru/member.php?username={}",
     "urlMain": "https://forum.velomania.ru/",

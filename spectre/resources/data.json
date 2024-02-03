@@ -780,8 +780,7 @@
     "username_claimed": "adam"
   },
   "Gab": {
-    "errorMsg": "The page you are looking for isn't here.",
-    "errorType": "message",
+    "errorType": "status_code",
     "url": "https://gab.com/{}",
     "urlMain": "https://gab.com",
     "username_claimed": "a"
@@ -1184,7 +1183,8 @@
     "username_claimed": "blue"
   },
   "KiwiFarms": {
-    "errorType": "status_code",
+    "errorMsg": "The requested page could not be found.",
+    "errorType": "message",
     "url": "https://kiwifarms.st/members/{}",
     "urlMain": "https://kiwifarms.st/",
     "username_claimed": "blue"
@@ -1236,7 +1236,7 @@
     "username_claimed": "blue"
   },
   "Linkedin": {
-    "errorMsg": "could not be found",
+    "errorMsg": "An exact match for {} could not be found.",
     "errorType": "message",
     "url": "https://www.linkedin.com/in/{}",
     "urlMain": "https://www.linkedin.com/",
@@ -1568,7 +1568,7 @@
     "username_claimed": "blue"
   },
   "Photobucket": {
-    "errorMsg": "Where am I?",
+    "errorMsg": "Where Am I?",
     "errorType": "message",
     "url": "https://photobucket.com/user/{}/library",
     "urlMain": "https://photobucket.com/",
@@ -1647,7 +1647,7 @@
     "username_claimed": "Blue"
   },
   "Quora": {
-    "errorMsg": "We searched everywhere but couldn't find the page you were looking for.",
+    "errorMsg" :"Page Not Found",
     "errorType": "message",
     "url": "https://www.quora.com/profile/{}",
     "urlMain": "https://www.quora.com/",
